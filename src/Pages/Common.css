@@ -1,0 +1,18 @@
+.page {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 15%;
+}
+
+.picture {
+	width: 600px;
+	height: auto;
+}
+strong {
+	color: green;
+}
+h4 {
+	padding: 10px 0;
+	font-size: 1.2rem !important;
+}

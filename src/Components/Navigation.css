@@ -1,0 +1,10 @@
+.nav__brand {
+	font-weight: 700;
+	font-size: 2rem !important;
+	color: rgb(62, 126, 62) !important;
+}
+.active__link {
+	font-weight: 200;
+	color: rgb(62, 126, 62) !important;
+	border-bottom: 1px solid rgb(62, 126, 62);
+}

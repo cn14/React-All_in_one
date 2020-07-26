@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-All_in_one/static/css/main.303705d9.chunk.css",
+    "main.js": "/React-All_in_one/static/js/main.0d2b8716.chunk.js",
+    "main.js.map": "/React-All_in_one/static/js/main.0d2b8716.chunk.js.map",
+    "runtime-main.js": "/React-All_in_one/static/js/runtime-main.cebb5c7a.js",
+    "runtime-main.js.map": "/React-All_in_one/static/js/runtime-main.cebb5c7a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/React-All_in_one/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.67ccfcc5.chunk.js": "/React-All_in_one/static/js/2.67ccfcc5.chunk.js",
+    "static/js/2.67ccfcc5.chunk.js.map": "/React-All_in_one/static/js/2.67ccfcc5.chunk.js.map",
+    "index.html": "/React-All_in_one/index.html",
+    "precache-manifest.3128365241fed71ec1aa3d1ce9ef401f.js": "/React-All_in_one/precache-manifest.3128365241fed71ec1aa3d1ce9ef401f.js",
+    "service-worker.js": "/React-All_in_one/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/React-All_in_one/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.303705d9.chunk.css.map": "/React-All_in_one/static/css/main.303705d9.chunk.css.map",
+    "static/js/2.67ccfcc5.chunk.js.LICENSE.txt": "/React-All_in_one/static/js/2.67ccfcc5.chunk.js.LICENSE.txt",
+    "static/media/about.png": "/React-All_in_one/static/media/about.b46b36cb.png",
+    "static/media/welcome.png": "/React-All_in_one/static/media/welcome.3e257af8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cebb5c7a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.67ccfcc5.chunk.js",
+    "static/css/main.303705d9.chunk.css",
+    "static/js/main.0d2b8716.chunk.js"
+  ]
+}
